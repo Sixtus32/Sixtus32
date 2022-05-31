@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning Solidity and exploring Solana.
 
+❤️ I love Platzi.
+
 📫 How to reach me:
     
     My phone: +34 631 929 153

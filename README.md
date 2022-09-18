@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Solidity and exploring Solana.
 
-❤️ I love Platzi.
+❤️ Student at Platzi.
 
 📫 How to reach me:
     
